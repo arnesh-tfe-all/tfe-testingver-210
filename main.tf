@@ -4,4 +4,4 @@ terraform {
   }
 }
 
-resource "random_pet" "x" {}
+resource "random_pet" "z" {}
